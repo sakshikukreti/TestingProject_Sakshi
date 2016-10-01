@@ -2,7 +2,7 @@ package project1;
 
 public class primenumber {
 	public static void main(String[] args) {
-		// prime number
+		// prime number Program
 
 		for (int i = 1; i <= 100; i++) {
 			int k = 0;
